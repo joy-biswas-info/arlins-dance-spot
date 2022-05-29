@@ -1,0 +1,18 @@
+.logoImg{
+  height: 90px;
+}
+.menu-item{
+font-family: 'Oswald',
+  Helvetica,
+  Arial,
+  Lucida,
+  sans-serif;
+  line-height: 14px;
+  word-spacing: 1px;
+}
+.menu-item:hover{
+color: #ff0000 !important;
+}
+.menu-item:active{
+color: #ff0000 !important;
+}
